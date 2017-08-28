@@ -1,2 +1,2 @@
 # Article Classification using Machine Learning
-## CDRI_Test
+## Central Drug Research Institute Test
